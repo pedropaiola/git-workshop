@@ -18,4 +18,4 @@ And print a picture, and then I tell you the time
 
 > Help you to find something you're wanting to find
 No, it's easy to be a clever smart boy like me
-If you could to it all digitally-yyyyyy!
+If you could to it all *digitally-yyyyyyyyyy*!
